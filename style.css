@@ -1,0 +1,41 @@
+/* Colors and fronts */
+body {
+background: rgb(44, 61,60);
+color:rgb(192,192,192);
+font-family: 'PT Serif', serif;
+font-size: 20px;
+}
+h1,h2 {
+	font-family: 'Playfair Display', serif;
+}
+h1 {
+color: black;
+font-size: 20px;
+}
+h2{
+color:rgb(240,230,140);
+font-size: 30px;
+font-weight: bolder; 
+padding: 20px;
+margin: 10px;
+
+}
+a {
+	text-decoration: none;
+	color:#161e22;
+}
+a:hover {
+ color:rgb(192,192,192);
+}
+
+
+div {
+	background:#5f282b;
+	border: 2px solid white;
+	margin:10pxs;
+}
+
+
+.image-circle {
+	border-radius:60%;
+}
